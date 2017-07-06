@@ -1,4 +1,5 @@
 ## Usefull bash aliases
+```
 alias cp='cp -i'
 alias df='df -h'
 alias egrep='egrep -i --colour=auto'
@@ -16,3 +17,5 @@ alias np='nano -w PKGBUILD'
 alias printer='system-config-printer'
 alias update='yaourt -Syua'
 alias find='find 2>/dev/null'
+```
+
