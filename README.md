@@ -1,4 +1,4 @@
-## Usefull bash aliases
+## Usefull bash aliases :)
 ## :D:D
 ## comment
 
