@@ -18,3 +18,4 @@ alias printer='system-config-printer'
 alias update='yaourt -Syua'
 alias find='find 2>/dev/null'
 ```
+end of file
