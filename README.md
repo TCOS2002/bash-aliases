@@ -1,5 +1,6 @@
 ## Usefull bash aliases
 ```
+//Modificacio del profe
 alias cp='cp -i'
 alias df='df -h'
 alias egrep='egrep -i --colour=auto'
