@@ -1,6 +1,10 @@
 ## Usefull bash aliases
+## :D:D
+## comment
+
 ```
-//Modificacio del profe
+#Modificacio del profe
+alias
 alias cp='cp -i'
 alias df='df -h'
 alias egrep='egrep -i --colour=auto'
@@ -19,4 +23,4 @@ alias printer='system-config-printer'
 alias update='yaourt -Syua'
 alias find='find 2>/dev/null'
 ```
-
+end of file
