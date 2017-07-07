@@ -1,4 +1,6 @@
-## Usefull bash aliases TE MODIFICO LA LINEA (TCOS)
+
+## Usefull bash aliases TE MODIFICO LA LINEA (TCOS) :)
+
 ## :D:D
 ## comment
 
