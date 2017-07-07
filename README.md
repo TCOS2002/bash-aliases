@@ -1,8 +1,10 @@
 ## Usefull bash aliases
 ## :D:D
 ## comment
+
 ```
-hola
+#Modificacio del profe
+alias
 alias cp='cp -i'
 alias df='df -h'
 alias egrep='egrep -i --colour=auto'
